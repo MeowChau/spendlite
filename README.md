@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## 📥 Tải về
+[⬇️ Download APK (Latest)](https://github.com/MeowChau/spendlite/releases/latest/download/app-release.apk)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
