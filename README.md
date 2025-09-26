@@ -1,8 +1,8 @@
-# spendlite
+# Spendlite
 
 A new Flutter project.
 
-## 📥 Tải về
+## 📥 Download
 [⬇️ Download APK (Latest)](https://github.com/MeowChau/spendlite/releases/download/v1.0.0/app-release.apk)
 
 ## Getting Started
